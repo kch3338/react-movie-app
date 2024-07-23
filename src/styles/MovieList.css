@@ -1,0 +1,14 @@
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+    color: #ffffff;
+}
+
+.movie_list {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}

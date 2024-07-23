@@ -1,0 +1,17 @@
+.movie_item {
+    display: flex;
+    width: 20%;
+    max-height: 400px;
+    margin-bottom: 50px;
+    cursor: pointer;
+}
+
+.movie_item_card > h3 {
+    max-height: 30px;
+    white-space: normal;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
